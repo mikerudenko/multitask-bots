@@ -1,0 +1,15 @@
+{
+  "name": "sentiments-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Rudenko",
+  "license": "MIT",
+  "dependencies": {
+    "sentiment": "5.0.2",
+    "telegraf": "3.36.0"
+  }
+}

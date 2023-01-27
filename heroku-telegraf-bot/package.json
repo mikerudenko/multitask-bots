@@ -1,0 +1,19 @@
+{
+  "name": "heroku-telegraf-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Mike Rudenko",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "8.2.0",
+    "telegraf": "3.38.0"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
